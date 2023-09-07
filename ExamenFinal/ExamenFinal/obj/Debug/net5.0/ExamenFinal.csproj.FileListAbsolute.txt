@@ -1,0 +1,16 @@
+D:\Universidad\Programación 3\ExamenFinal\ExamenFinal\bin\Debug\net5.0\ExamenFinal.exe
+D:\Universidad\Programación 3\ExamenFinal\ExamenFinal\bin\Debug\net5.0\ExamenFinal.deps.json
+D:\Universidad\Programación 3\ExamenFinal\ExamenFinal\bin\Debug\net5.0\ExamenFinal.runtimeconfig.json
+D:\Universidad\Programación 3\ExamenFinal\ExamenFinal\bin\Debug\net5.0\ExamenFinal.runtimeconfig.dev.json
+D:\Universidad\Programación 3\ExamenFinal\ExamenFinal\bin\Debug\net5.0\ExamenFinal.dll
+D:\Universidad\Programación 3\ExamenFinal\ExamenFinal\bin\Debug\net5.0\ref\ExamenFinal.dll
+D:\Universidad\Programación 3\ExamenFinal\ExamenFinal\bin\Debug\net5.0\ExamenFinal.pdb
+D:\Universidad\Programación 3\ExamenFinal\ExamenFinal\obj\Debug\net5.0\ExamenFinal.csproj.AssemblyReference.cache
+D:\Universidad\Programación 3\ExamenFinal\ExamenFinal\obj\Debug\net5.0\ExamenFinal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\Programación 3\ExamenFinal\ExamenFinal\obj\Debug\net5.0\ExamenFinal.AssemblyInfoInputs.cache
+D:\Universidad\Programación 3\ExamenFinal\ExamenFinal\obj\Debug\net5.0\ExamenFinal.AssemblyInfo.cs
+D:\Universidad\Programación 3\ExamenFinal\ExamenFinal\obj\Debug\net5.0\ExamenFinal.csproj.CoreCompileInputs.cache
+D:\Universidad\Programación 3\ExamenFinal\ExamenFinal\obj\Debug\net5.0\ExamenFinal.dll
+D:\Universidad\Programación 3\ExamenFinal\ExamenFinal\obj\Debug\net5.0\ref\ExamenFinal.dll
+D:\Universidad\Programación 3\ExamenFinal\ExamenFinal\obj\Debug\net5.0\ExamenFinal.pdb
+D:\Universidad\Programación 3\ExamenFinal\ExamenFinal\obj\Debug\net5.0\ExamenFinal.genruntimeconfig.cache
